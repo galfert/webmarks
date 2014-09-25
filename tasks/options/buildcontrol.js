@@ -30,6 +30,12 @@ module.exports = {
       branch: 'master',
     }
   },
+  galfert: {
+    options: {
+      remote: 'git@5apps.com:galfert_webmarks-bluebird.git',
+      branch: 'master',
+    }
+  },
   local: {
     options: {
       remote: '../',
